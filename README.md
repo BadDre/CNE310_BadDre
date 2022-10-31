@@ -1,5 +1,6 @@
-# This script will call a function  function called 'ip_to_operating_system'. This function will take the last octet of an IP address
-(0-255) and returns “Linux” or “Windows” depending on if the octet is even or odd. If a user enters 0, it will report “Router”.
+# CNE310 HomeWork IP sorting function
+
+This script will call a function  function called 'ip_to_operating_system'. This function will take the last octet of an IP address(0-255) and returns “Linux” or “Windows” depending on if the octet is even or odd. If a user enters 0, it will report “Router”.
 
 ## Getting Started
 
