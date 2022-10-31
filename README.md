@@ -13,7 +13,7 @@ The commands below will install python 3 as well as pycharm:
 
 ```
 1. Install Python 3 via https://www.python.org/downloads/
-2.Install Pycharm via https://www.jetbrains.com/pycharm/download/
+2. Install Pycharm via https://www.jetbrains.com/pycharm/download/
 ```
 ## Running
 Once installed copy the text of the script into your clipboard and paste it into your IDE workspace.
